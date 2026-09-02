@@ -15,9 +15,7 @@
 
 ## Project Overview
 
-This project focuses on Customer RFM + CLV Analytics and presents the analysis in a clear, practical way.
-
-This project focuses on data-driven analysis and decision support. It is presented in a simple way so the main analysis and output are easy to understand.
+This project analyzes customer purchase behavior using RFM and customer value measures. It helps group customers by recency, purchase frequency, and spending so different customer groups are easier to understand.
 
 ## How the Project Works
 
@@ -27,26 +25,28 @@ This project focuses on data-driven analysis and decision support. It is present
 
 ## What This Project Does
 
-- Focuses on data-driven analysis and decision support.
-- Uses the technologies shown below to complete the analysis or build the project output.
-- Includes visual output that makes the results easier to review.
+- Measures customer recency, purchase frequency, and spending behavior.
+- Groups customers so different customer types can be compared.
+- Uses customer value analysis to support marketing decisions.
 
 ## Technologies Used
 
 | Technology | How It Is Used |
 |------------|----------------|
-| Jupyter Notebook | Used in the project |
-| SQL | Used in the project |
-| Power BI | Used in the project |
-| CSV | Used in the project |
+| Jupyter Notebook | Documents and runs the step-by-step data analysis |
+| SQL | Queries and summarizes data for analysis |
+| Power BI | Builds the interactive dashboard and visual analysis |
+| CSV | Provides tabular source or output data for the analysis |
 
 ## Dashboard / Output
 
-<p align="center"><img src="docs/assets/output-1.png" alt="Project Output" width="900"></p>
+### Rfm Analysis Dashboard
+
+<p align="center"><img src="docs/assets/rfm-analysis-dashboard.png" alt="Rfm Analysis Dashboard" width="900"></p>
 
 ## Project Application
 
-This project shows how data-driven analysis and decision support can be approached with data and analytics. It can be useful for understanding the problem, comparing important information, and supporting better decisions.
+Customer segmentation and value analysis can help marketing teams understand which customer groups are recent, frequent, or high value. This can support more focused retention and campaign planning.
 
 ---
 
