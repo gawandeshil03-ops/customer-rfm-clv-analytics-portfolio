@@ -2,9 +2,7 @@
 
 # Customer RFM + CLV Analytics
 
-### A portfolio-ready repository for Customer RFM + CLV Analytics, documented from the files and technologies present in the project.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Sales%20%20Marketing%20Analytics-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops/sales-marketing-analytics-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Sales%20%26%20Marketing%20Analytics%20Portfolio-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops/sales-marketing-analytics-portfolio)
 [![Repository](https://img.shields.io/badge/Repository-GitHub-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops/customer-rfm-clv-analytics-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/shilgawande2004)
 [![GitHub](https://img.shields.io/badge/GitHub-gawandeshil03-ops-0A66C2?style=for-the-badge)](https://github.com/gawandeshil03-ops)
@@ -17,82 +15,39 @@
 
 ## Project Overview
 
-A portfolio-ready repository for Customer RFM + CLV Analytics, documented from the files and technologies present in the project.
+This project focuses on Customer RFM + CLV Analytics and presents the analysis in a clear, practical way.
 
-## Problem / Objective
+This project focuses on data-driven analysis and decision support. It is presented in a simple way so the main analysis and output are easy to understand.
 
-**Application:** Data-driven analysis and decision support.
-
-This README is generated from the actual project folder. Technologies, components, inputs, outputs, and architecture claims are included only when supported by repository evidence.
-
-## Project Architecture / Workflow
+## How the Project Works
 
 <p align="center">
   <img src="docs/assets/project-architecture.png" alt="Project Architecture / Workflow" width="900">
 </p>
 
-## Verified Working Components
+## What This Project Does
 
-| Layer / Area | Verified Evidence |
-|--------------|-------------------|
-| Inputs | CSV datasets |
-| Data / Storage | SQL scripts / data layer |
-| Analytics / Models | Jupyter notebooks |
-| Outputs / Interface | Power BI report |
+- Focuses on data-driven analysis and decision support.
+- Uses the technologies shown below to complete the analysis or build the project output.
+- Includes visual output that makes the results easier to review.
 
-## Technology Stack
+## Technologies Used
 
-| Technology | Evidence |
-|------------|----------|
-| Jupyter Notebook | Verified from project files |
-| SQL | Verified from project files |
-| Power BI | Verified from project files |
-| CSV | Verified from project files |
+| Technology | How It Is Used |
+|------------|----------------|
+| Jupyter Notebook | Used in the project |
+| SQL | Used in the project |
+| Power BI | Used in the project |
+| CSV | Used in the project |
 
-## Core Repository Files
+## Dashboard / Output
 
-| File | Type |
-|------|------|
-| `customer-rfm-analysis\dashboard\rfm_analysis_dashboard.pbix` | PBIX |
-| `customer-rfm-analysis\dashboard\rfm_analysis_dashboard.png` | PNG |
-| `customer-rfm-analysis\data\final_rfm_output.csv` | CSV |
-| `customer-rfm-analysis\notebook\03_data_cleaning_imported.ipynb` | IPYNB |
-| `customer-rfm-analysis\notebook\04_rfm_clv.ipynb` | IPYNB |
-| `customer-rfm-analysis\sql\01_rfm_database_and_table_creation.sql` | SQL |
-| `customer-rfm-analysis\sql\02_rfm_modeling.sql` | SQL |
-| `customer-rfm-analysis\workflowdiagram.png` | PNG |
-| `docs\assets\project-architecture.png` | PNG |
+<p align="center"><img src="docs/assets/output-1.png" alt="Project Output" width="900"></p>
 
-## Project Structure
+## Project Application
 
-`	ext
-p-823343883/
-  - customer-rfm-analysis/
-  - docs/
-`
-
-## How the Project Is Organized
-
-The architecture/workflow visual above is the primary working view of this project. When an existing architecture or workflow image is present, that project asset is used directly. Otherwise, the automation derives a Mermaid visual only from verified project documentation and artifacts.
-
-## Methodology & Documentation Policy
-
-- Local project files are the source of truth.
-- Existing project README content is preserved under `docs/ORIGINAL_README.md` in the safe publication copy when available.
-- Technology badges are created only from detected project evidence.
-- Unsupported databases, cloud services, APIs, models, metrics, deployment claims, users, clients, revenue, savings, or business outcomes are omitted.
-- When workflow order cannot be proven, the visual is explicitly shown as a working component map rather than a fabricated sequence.
-
-## Explore
-
-Use the repository files together with the architecture/workflow visual, technology table, and project structure above to understand the implementation.
-
-## Contact
-
-- GitHub: https://github.com/gawandeshil03-ops
-- LinkedIn: https://www.linkedin.com/in/shilgawande2004
-- Email: gawandeshil9@gmail.com
+This project shows how data-driven analysis and decision support can be approached with data and analytics. It can be useful for understanding the problem, comparing important information, and supporting better decisions.
 
 ---
 
-[<- Return to Sales  Marketing Analytics Portfolio](https://github.com/gawandeshil03-ops/sales-marketing-analytics-portfolio)
+[<- Return to Sales & Marketing Analytics Portfolio](https://github.com/gawandeshil03-ops/sales-marketing-analytics-portfolio)
