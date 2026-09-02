@@ -13,13 +13,17 @@
 
 </div>
 
+---
+
 ## Project Overview
 
 A portfolio-ready repository for Customer RFM + CLV Analytics, documented from the files and technologies present in the project.
 
 ## Problem / Objective
 
-Data-driven analysis and decision support.
+**Application:** Data-driven analysis and decision support.
+
+This README is generated from the actual project folder. Technologies, components, inputs, outputs, and architecture claims are included only when supported by repository evidence.
 
 ## Project Architecture / Workflow
 
@@ -27,14 +31,37 @@ Data-driven analysis and decision support.
   <img src="docs/assets/project-architecture.png" alt="Project Architecture / Workflow" width="900">
 </p>
 
+## Verified Working Components
+
+| Layer / Area | Verified Evidence |
+|--------------|-------------------|
+| Inputs | CSV datasets |
+| Data / Storage | SQL scripts / data layer |
+| Analytics / Models | Jupyter notebooks |
+| Outputs / Interface | Power BI report |
+
 ## Technology Stack
 
-| Technology | Evidence / Purpose |
-|------------|--------------------|
+| Technology | Evidence |
+|------------|----------|
 | Jupyter Notebook | Verified from project files |
 | SQL | Verified from project files |
 | Power BI | Verified from project files |
 | CSV | Verified from project files |
+
+## Core Repository Files
+
+| File | Type |
+|------|------|
+| `customer-rfm-analysis\dashboard\rfm_analysis_dashboard.pbix` | PBIX |
+| `customer-rfm-analysis\dashboard\rfm_analysis_dashboard.png` | PNG |
+| `customer-rfm-analysis\data\final_rfm_output.csv` | CSV |
+| `customer-rfm-analysis\notebook\03_data_cleaning_imported.ipynb` | IPYNB |
+| `customer-rfm-analysis\notebook\04_rfm_clv.ipynb` | IPYNB |
+| `customer-rfm-analysis\sql\01_rfm_database_and_table_creation.sql` | SQL |
+| `customer-rfm-analysis\sql\02_rfm_modeling.sql` | SQL |
+| `customer-rfm-analysis\workflowdiagram.png` | PNG |
+| `docs\assets\project-architecture.png` | PNG |
 
 ## Project Structure
 
@@ -44,18 +71,28 @@ p-823343883/
   - docs/
 `
 
-## Methodology
+## How the Project Is Organized
 
-This recruiter-facing documentation was generated from files and technologies actually present in the project. Unsupported technologies, business results, deployment claims, and performance metrics are intentionally omitted.
+The architecture/workflow visual above is the primary working view of this project. When an existing architecture or workflow image is present, that project asset is used directly. Otherwise, the automation derives a Mermaid visual only from verified project documentation and artifacts.
 
-## Suggested Enhancements
+## Methodology & Documentation Policy
 
-Potential future improvements may include stronger automated testing, packaging, deployment, monitoring, or additional documentation where appropriate to the actual project.
+- Local project files are the source of truth.
+- Existing project README content is preserved under `docs/ORIGINAL_README.md` in the safe publication copy when available.
+- Technology badges are created only from detected project evidence.
+- Unsupported databases, cloud services, APIs, models, metrics, deployment claims, users, clients, revenue, savings, or business outcomes are omitted.
+- When workflow order cannot be proven, the visual is explicitly shown as a working component map rather than a fabricated sequence.
+
+## Explore
+
+Use the repository files together with the architecture/workflow visual, technology table, and project structure above to understand the implementation.
 
 ## Contact
 
 - GitHub: https://github.com/gawandeshil03-ops
 - LinkedIn: https://www.linkedin.com/in/shilgawande2004
 - Email: gawandeshil9@gmail.com
+
+---
 
 [<- Return to Sales  Marketing Analytics Portfolio](https://github.com/gawandeshil03-ops/sales-marketing-analytics-portfolio)
